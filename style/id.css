@@ -1,0 +1,24 @@
+#first-header {
+  text-align: center;
+  background-color: aquamarine;
+  color: red;
+}
+
+#second-header {
+  color: blue;
+  text-align: center;
+  background-color: aqua;
+}
+
+#image-header img{
+  width: 300px;
+  height: 300px;
+}
+
+#image-header p {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: red;
+  
+
+}
